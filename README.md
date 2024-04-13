@@ -1,3 +1,12 @@
+
+
+Web-интерфейс для CRM системы
+https://naan2207.github.io/CRM-1/
+
+Layout figma https://www.figma.com/file/DPSS6AwdQtblShBe3IqniN/CRM-(Copy)?type=design&mode=design&t=YkkHm1TNMaEIOkDX-0
+
+Запуск: загрузите -> 
+
 crm-backend: 
 
 REST API для базы данных клиентов
