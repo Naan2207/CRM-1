@@ -1,0 +1,176 @@
+/* 1024 */
+
+@media (max-width: 1320px) {
+  .clients-info {
+    max-width: 230px;
+  }
+}
+
+@media (max-width: 1200px) {
+
+  .container {
+    max-width: 1024px;
+    padding: 0 20px;
+  }
+
+  .clients__caption-sort {
+    padding-right: 20px;
+  }
+
+  .sort-id {
+    margin-right: 45px;
+  }
+
+  .sort-fio {
+    margin-right: 64px;
+  }
+
+  .sort-date {
+    max-width: 81px;
+    margin-right: 76px;
+  }
+
+  .sort-changes {
+    max-width: 104px;
+    margin-right: 42px;
+  }
+
+  .clients__caption:not(:last-child) {
+    margin-right: 94px;
+  }
+
+  .clients__list {
+    justify-content: initial;
+  }
+
+  .clients-info {
+    max-width: 241px;
+    margin-right: 10px;
+  }
+
+  .item-id {
+    margin-right: 20px;
+  }
+
+  .item-date {
+    margin-right: 30px;
+  }
+
+  .item-social {
+    margin-right: 40px;
+  }
+
+}
+
+
+@media (max-width: 998px) {
+
+
+  .sort-id {
+    margin-right: 35px;
+  }
+
+  .sort-fio {
+    margin-right: 49px;
+  }
+
+  .sort-date {
+    margin-right: 16px;
+  }
+
+  .sort-changes {
+    margin-right: 17px;
+  }
+
+  .clients__caption:not(:last-child) {
+    margin-right: 73px;
+  }
+
+  .item__btn-group {
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+
+  .clients-info {
+    max-width: 181px;
+    margin-right: 37px;
+  }
+
+  .item-date {
+    flex-wrap: wrap;
+    gap: 0;
+    max-width: 72px;
+    margin-right: 26px;
+  }
+
+  .item-social {
+    margin-right: 15px;
+  }
+}
+
+@media (max-width: 650px) {
+
+  .table-clients {
+    overflow-x: scroll;
+  }
+
+  .container {
+    padding: 0 10px;
+  }
+
+  .header {
+    padding: 8px 0;
+  }
+
+  .header__wrapper {
+    justify-content: center;
+    padding: 0 10px;
+  }
+
+  .header__input {
+    display: none;
+  }
+
+  .header__logo {
+    margin: 0;
+  }
+
+  .header__logo-svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  .clients__title {
+    font-size: 18px;
+    line-height: 25px;
+  }
+
+  .clients__wrapper {
+    position: relative;
+  }
+
+  .clients__caption-sort,
+  .table-clients__wrapper {
+    width: 728px;
+  }
+
+  .clients__btn-wrapper {
+    position: fixed;
+    left: calc(100% / 4);
+  }
+
+
+}
+
+
+@media (max-width: 390px) {
+  .input-select {
+    width: 140px;
+  }
+}
+/* 320 */
+@media (max-width: 320px) {
+  .clients__btn-wrapper {
+    left: calc(100% / 6);
+  }
+}

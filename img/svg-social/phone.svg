@@ -1,0 +1,9 @@
+<svg width="16.000000" height="16.000000" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+	<defs/>
+	<g opacity="0.700000">
+		<rect id="phone" width="16.000000" height="16.000000" fill="#FFFFFF" fill-opacity="0"/>
+		<circle id="Ellipse 34" cx="8.000000" cy="8.000000" r="8.000000" fill="#9873FF" fill-opacity="1.000000"/>
+		<path id="Vector" d="M11.56 9.5C11.01 9.5 10.48 9.41 9.99 9.25C9.83 9.2 9.66 9.24 9.54 9.35L8.84 10.23C7.58 9.63 6.4 8.5 5.78 7.2L6.64 6.46C6.76 6.33 6.8 6.16 6.75 6C6.59 5.51 6.5 4.98 6.5 4.43C6.5 4.2 6.3 4 6.06 4L4.52 4C4.28 4 4 4.1 4 4.43C4 8.56 7.43 12 11.56 12C11.87 12 12 11.72 12 11.47L12 9.94C12 9.7 11.8 9.5 11.56 9.5Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
